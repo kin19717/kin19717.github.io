@@ -17,7 +17,7 @@ title: Kinson Tsui's portfolio
 email: kinkwantsui@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Success is only meaningful and enjoyable if it feels like your own
-baseurl: "kin19717.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  kin19717
